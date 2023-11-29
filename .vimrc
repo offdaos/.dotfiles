@@ -1,8 +1,8 @@
 nnoremap ò :
 vnoremap ò :
-inoremap jk <ESC>
-inoremap kj <ESC>
-inoremap jj <ESC>
+inoremap jk <Esc>
+inoremap kj <Esc>
+inoremap jj <Esc>
 let mapleader=" "
 syntax enable
 set termguicolors
